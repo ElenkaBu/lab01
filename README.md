@@ -9,7 +9,7 @@
 
 ### Реализовать схему
 
-![lab01.схема.png](Clos_topology.png)
+[lab01.схема.png](Clos_topology.png)
 
 ### Таблица адресов
 
